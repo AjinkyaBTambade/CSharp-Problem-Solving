@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\bin\Debug\net8.0\Factorial-Of-Number.exe
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\bin\Debug\net8.0\Factorial-Of-Number.deps.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\bin\Debug\net8.0\Factorial-Of-Number.runtimeconfig.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\bin\Debug\net8.0\Factorial-Of-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\bin\Debug\net8.0\Factorial-Of-Number.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\Factorial-Of-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\Factorial-Of-Number.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\Factorial-Of-Number.AssemblyInfo.cs
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\Factorial-Of-Number.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\Factorial-Of-Number.sourcelink.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\Factorial-Of-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\refint\Factorial-Of-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\Factorial-Of-Number.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\Factorial-Of-Number.genruntimeconfig.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Factorial-Of-Number\obj\Debug\net8.0\ref\Factorial-Of-Number.dll

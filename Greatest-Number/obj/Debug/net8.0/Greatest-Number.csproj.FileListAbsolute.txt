@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\bin\Debug\net8.0\Greatest-Number.exe
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\bin\Debug\net8.0\Greatest-Number.deps.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\bin\Debug\net8.0\Greatest-Number.runtimeconfig.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\bin\Debug\net8.0\Greatest-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\bin\Debug\net8.0\Greatest-Number.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\Greatest-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\Greatest-Number.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\Greatest-Number.AssemblyInfo.cs
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\Greatest-Number.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\Greatest-Number.sourcelink.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\Greatest-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\refint\Greatest-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\Greatest-Number.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\Greatest-Number.genruntimeconfig.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Greatest-Number\obj\Debug\net8.0\ref\Greatest-Number.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\bin\Debug\net8.0\Prime-Number.exe
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\bin\Debug\net8.0\Prime-Number.deps.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\bin\Debug\net8.0\Prime-Number.runtimeconfig.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\bin\Debug\net8.0\Prime-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\bin\Debug\net8.0\Prime-Number.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\Prime-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\Prime-Number.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\Prime-Number.AssemblyInfo.cs
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\Prime-Number.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\Prime-Number.sourcelink.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\Prime-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\refint\Prime-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\Prime-Number.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\Prime-Number.genruntimeconfig.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Prime-Number\obj\Debug\net8.0\ref\Prime-Number.dll

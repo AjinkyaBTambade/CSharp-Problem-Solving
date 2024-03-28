@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\Roman-To-Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\Roman-To-Integer.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\Roman-To-Integer.AssemblyInfo.cs
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\Roman-To-Integer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\Roman-To-Integer.sourcelink.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\bin\Debug\net8.0\Roman-To-Integer.exe
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\bin\Debug\net8.0\Roman-To-Integer.deps.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\bin\Debug\net8.0\Roman-To-Integer.runtimeconfig.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\bin\Debug\net8.0\Roman-To-Integer.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\bin\Debug\net8.0\Roman-To-Integer.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\Roman-To-Integer.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\refint\Roman-To-Integer.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\Roman-To-Integer.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\Roman-To-Integer.genruntimeconfig.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Roman-To-Integer\obj\Debug\net8.0\ref\Roman-To-Integer.dll

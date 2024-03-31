@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\Remove-Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\Remove-Element.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\Remove-Element.AssemblyInfo.cs
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\Remove-Element.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\Remove-Element.sourcelink.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\bin\Debug\net8.0\Remove-Element.exe
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\bin\Debug\net8.0\Remove-Element.deps.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\bin\Debug\net8.0\Remove-Element.runtimeconfig.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\bin\Debug\net8.0\Remove-Element.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\bin\Debug\net8.0\Remove-Element.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\Remove-Element.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\refint\Remove-Element.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\Remove-Element.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\Remove-Element.genruntimeconfig.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Remove-Element\obj\Debug\net8.0\ref\Remove-Element.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\Merge-Sorted-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\Merge-Sorted-Array.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\Merge-Sorted-Array.AssemblyInfo.cs
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\Merge-Sorted-Array.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\Merge-Sorted-Array.sourcelink.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\bin\Debug\net8.0\Merge-Sorted-Array.exe
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\bin\Debug\net8.0\Merge-Sorted-Array.deps.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\bin\Debug\net8.0\Merge-Sorted-Array.runtimeconfig.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\bin\Debug\net8.0\Merge-Sorted-Array.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\bin\Debug\net8.0\Merge-Sorted-Array.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\Merge-Sorted-Array.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\refint\Merge-Sorted-Array.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\Merge-Sorted-Array.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\Merge-Sorted-Array.genruntimeconfig.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Merge-Sorted-Array\obj\Debug\net8.0\ref\Merge-Sorted-Array.dll

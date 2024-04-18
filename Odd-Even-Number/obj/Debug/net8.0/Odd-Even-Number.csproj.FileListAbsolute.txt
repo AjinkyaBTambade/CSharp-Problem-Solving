@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\bin\Debug\net8.0\Odd-Even-Number.exe
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\bin\Debug\net8.0\Odd-Even-Number.deps.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\bin\Debug\net8.0\Odd-Even-Number.runtimeconfig.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\bin\Debug\net8.0\Odd-Even-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\bin\Debug\net8.0\Odd-Even-Number.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\Odd-Even-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\Odd-Even-Number.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\Odd-Even-Number.AssemblyInfo.cs
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\Odd-Even-Number.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\Odd-Even-Number.sourcelink.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\Odd-Even-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\refint\Odd-Even-Number.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\Odd-Even-Number.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\Odd-Even-Number.genruntimeconfig.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Odd-Even-Number\obj\Debug\net8.0\ref\Odd-Even-Number.dll

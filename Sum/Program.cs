@@ -10,6 +10,7 @@ class Program
 
         Console.WriteLine("Enter the second number:");
         int num2 = int.Parse(Console.ReadLine());
+        
         int sum = AddNumbers(num1, num2);
         Console.WriteLine($"The sum of {num1} and {num2} is: {sum}");
         Console.ReadLine();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Sum\\Sum.csproj": {}
+    "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Second Largest Number In An Array\\Second Largest Number In An Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Sum\\Sum.csproj": {
+    "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Second Largest Number In An Array\\Second Largest Number In An Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Sum\\Sum.csproj",
-        "projectName": "Sum",
-        "projectPath": "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Sum\\Sum.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Second Largest Number In An Array\\Second Largest Number In An Array.csproj",
+        "projectName": "Second Largest Number In An Array",
+        "projectPath": "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Second Largest Number In An Array\\Second Largest Number In An Array.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Sum\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Second Largest Number In An Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

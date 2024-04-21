@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Second Largest Number In An Array/1.0.0": {
+        "runtime": {
+          "Second Largest Number In An Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Second Largest Number In An Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

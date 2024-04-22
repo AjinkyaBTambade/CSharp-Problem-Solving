@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\bin\Debug\net8.0\Maximum Sum SubArray.exe
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\bin\Debug\net8.0\Maximum Sum SubArray.deps.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\bin\Debug\net8.0\Maximum Sum SubArray.runtimeconfig.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\bin\Debug\net8.0\Maximum Sum SubArray.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\bin\Debug\net8.0\Maximum Sum SubArray.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\Maximum Sum SubArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\Maximum Sum SubArray.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\Maximum Sum SubArray.AssemblyInfo.cs
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\Maximum Sum SubArray.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\Maximum Sum SubArray.sourcelink.json
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\Maximum Sum SubArray.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\refint\Maximum Sum SubArray.dll
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\Maximum Sum SubArray.pdb
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\Maximum Sum SubArray.genruntimeconfig.cache
+C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Maximum Sum SubArray\obj\Debug\net8.0\ref\Maximum Sum SubArray.dll

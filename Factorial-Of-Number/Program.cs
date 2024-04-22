@@ -7,7 +7,4 @@ int factorial(int a){
      }
 return fact;
  }
-
-
-
- Console.WriteLine(factorial(10));
+ Console.WriteLine(factorial(5));

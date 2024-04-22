@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Merge-Sorted-Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33a63f06db77d0a6c4ca4f92208d1e5c5bace87c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1d838720d9f0410cd25390b4f1ddfd38cdfc955")]
 [assembly: System.Reflection.AssemblyProductAttribute("Merge-Sorted-Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Merge-Sorted-Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

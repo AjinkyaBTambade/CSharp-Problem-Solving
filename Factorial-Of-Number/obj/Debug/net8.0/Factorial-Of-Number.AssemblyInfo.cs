@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Factorial-Of-Number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e43541892f97fb7fda3166d78e11d38e644052a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6927cc4e469f0c50d4a868d7484997ca71b0c6ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Factorial-Of-Number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Factorial-Of-Number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

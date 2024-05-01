@@ -13,3 +13,18 @@ C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\refint\Sum
 C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.pdb
 C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.genruntimeconfig.cache
 C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\ref\Sum.dll
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.AssemblyInfo.cs
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.sourcelink.json
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.dll
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\refint\Sum.dll
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.pdb
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\bin\Debug\net8.0\Sum.exe
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\bin\Debug\net8.0\Sum.deps.json
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\bin\Debug\net8.0\Sum.runtimeconfig.json
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\bin\Debug\net8.0\Sum.dll
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\bin\Debug\net8.0\Sum.pdb
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\Sum.genruntimeconfig.cache
+C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\obj\Debug\net8.0\ref\Sum.dll

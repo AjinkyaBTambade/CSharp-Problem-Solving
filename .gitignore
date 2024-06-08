@@ -1,0 +1,30 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Ignore logs, database, and other miscellaneous files
+*.log
+*.ldf
+*.mdf
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Visual Studio working directory
+.vs/
+
+# Ignore Rider files
+.idea/
+
+# Ignore npm packages
+node_modules/
+
+# Ignore other files
+.DS_Store

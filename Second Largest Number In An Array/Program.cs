@@ -6,7 +6,7 @@ class Program
     static void Main(string[] args)
     {
         // Input array
-        int[] numbers = { 10, 20, 30, 40, 50 };
+        int[] numbers = { 70, 20, 50, 40, 30 };
 
         int secondLargest = FindSecondLargest(numbers);
 

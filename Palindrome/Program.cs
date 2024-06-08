@@ -16,6 +16,7 @@ class Program
         else
         {
             Console.WriteLine("Given string is not a palindrome.");
+
         }
     }
 

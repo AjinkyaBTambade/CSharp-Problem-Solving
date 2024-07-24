@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sum
-build_property.ProjectDir = C:\Users\admin\Desktop\Github Repo\CSharp-Problem-Solving\Sum\
+build_property.ProjectDir = D:\Github Repo\CSharp-Problem-Solving\Sum\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

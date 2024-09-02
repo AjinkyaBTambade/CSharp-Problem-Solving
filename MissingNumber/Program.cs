@@ -18,7 +18,7 @@ class Program
         }
 
         // Calculate the expected sum of numbers from 1 to 100
-        int expectedSum = 100 * (100 + 1) / 2; // Formula for the sum of first n natural numbers
+        int expectedSum = 100 * (100 + 1) / 2;
 
         // Calculate the actual sum of numbers in the array
         int actualSum = 0;

@@ -5,36 +5,37 @@ class Solution {
     public int solution(int[] P, int[] S) {
         int N = P.Length;
         
-        // Calculate free seats in each car
-        int[] freeSeats = new int[N];
-        for (int i = 0; i < N; i++) {
-            freeSeats[i] = S[i] - P[i];
-        }
-        
-        // Sort cars based on free seats in descending order
-        Array.Sort(freeSeats);
-        Array.Reverse(freeSeats);
-
         // Calculate the total number of passengers
         int totalPassengers = P.Sum();
-
-        // Start filling the cars with the most free seats first
-        int carsUsed = 0;
+        
+        // Calculate the capacity of each car
+        int[] carCapacities = new int[N];
         for (int i = 0; i < N; i++) {
-            totalPassengers -= S[i]; // Fill this car completely
+            carCapacities[i] = S[i];
+        }
+        
+        // Sort car capacities in descending order
+        Array.Sort(carCapacities);
+        Array.Reverse(carCapacities);
+
+        int carsUsed = 0;
+
+        // Start filling cars from the one with the highest capacity
+        foreach (int capacity in carCapacities) {
+            totalPassengers -= capacity;
             carsUsed++;
             if (totalPassengers <= 0) {
-                break;
+                return carsUsed;
             }
         }
         
+        // If we still have passengers left, return the number of cars used
         return carsUsed;
     }
 }
 
 class Program {
     static void Main(string[] args) {
-        // You can run your solution or test cases here
         Solution solution = new Solution();
         
         // Example test cases

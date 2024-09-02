@@ -24,7 +24,7 @@ class Program
     {
         string str = "Ajinkya!";
         string reversedStr = ReverseString(str);
-        Console.WriteLine(reversedStr); // Output: "!dlrow ,olleH"
+        Console.WriteLine(reversedStr);
     }
 
     static string ReverseString(string str)

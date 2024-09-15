@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Longest_Common_Prefix
-build_property.ProjectDir = C:\Users\admin\Desktop\AT\CSharp-Problem-Solving\Longest-Common-Prefix\
+build_property.ProjectDir = D:\Github Repo\CSharp-Problem-Solving\Longest-Common-Prefix\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -7,7 +7,7 @@ namespace LongestCommonPrefixApp
         static void Main(string[] args)
         {
 
-            string[] strings = { "book", "boot", "box",};
+            string[] strings = { "book", "bookt", "bookx",};
             Console.WriteLine(LongestCommonPrefix(strings));
         }
 

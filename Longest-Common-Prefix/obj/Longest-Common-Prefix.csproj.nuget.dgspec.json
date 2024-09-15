@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Longest-Common-Prefix\\Longest-Common-Prefix.csproj": {}
+    "D:\\Github Repo\\CSharp-Problem-Solving\\Longest-Common-Prefix\\Longest-Common-Prefix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Longest-Common-Prefix\\Longest-Common-Prefix.csproj": {
+    "D:\\Github Repo\\CSharp-Problem-Solving\\Longest-Common-Prefix\\Longest-Common-Prefix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Longest-Common-Prefix\\Longest-Common-Prefix.csproj",
+        "projectUniqueName": "D:\\Github Repo\\CSharp-Problem-Solving\\Longest-Common-Prefix\\Longest-Common-Prefix.csproj",
         "projectName": "Longest-Common-Prefix",
-        "projectPath": "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Longest-Common-Prefix\\Longest-Common-Prefix.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\AT\\CSharp-Problem-Solving\\Longest-Common-Prefix\\obj\\",
+        "projectPath": "D:\\Github Repo\\CSharp-Problem-Solving\\Longest-Common-Prefix\\Longest-Common-Prefix.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repo\\CSharp-Problem-Solving\\Longest-Common-Prefix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        string input = " HI MOM I AM WITH MY MADAM IN SCHOOL AND DAD S HERE";
+        string input = " HI MOM I AM WITH MY MADAM IN SCHOOL AND DAD IS HERE";
         string output = RemovePalindromes(input);
         Console.WriteLine(output);
     }
@@ -36,6 +36,6 @@ class Program
             }
         }
 
-        return true;
+        return true;hbh
     }
 }

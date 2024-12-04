@@ -36,6 +36,6 @@ class Program
             }
         }
 
-        return true;hbh
+        return true;
     }
 }
